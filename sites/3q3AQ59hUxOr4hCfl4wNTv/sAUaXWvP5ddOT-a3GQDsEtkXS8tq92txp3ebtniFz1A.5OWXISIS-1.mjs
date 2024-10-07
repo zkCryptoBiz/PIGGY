@@ -3289,7 +3289,7 @@ var yt = O(ae),
                           className: "framer-1h1ad6r",
                           children: [
                             e(Z, {
-                              href: "https://x.com/LittlePiggyXyz",
+                              href: "",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3327,7 +3327,7 @@ var yt = O(ae),
                               }),
                             }),
                             e(Z, {
-                              href: "https://t.me/LittlePiggyXyz",
+                              href: "",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3366,7 +3366,7 @@ var yt = O(ae),
                             }),
                             e(Z, 
                                 {
-                              href: "https://pump.fun/9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump",
+                              href: "",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3468,12 +3468,12 @@ var yt = O(ae),
                                     children: e(Be, {
                                       cEGfNMrg4: 15,
                                       GSol4UKtR:
-                                        "9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump",
+                                        "",
                                       height: "100%",
                                       id: "cLqKpWUXG",
                                       layoutId: "cLqKpWUXG",
                                       pFBpLpb7W:
-                                        "9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump",
+                                        "",
                                       style: { height: "100%", width: "100%" },
                                       variant: "zyJ1yXUEk",
                                       width: "100%",
@@ -3487,7 +3487,7 @@ var yt = O(ae),
                       ],
                     }),
                     e(Z, {
-                      href: "https://jup.ag/swap/9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump-SOL",
+                      href: "",
                       openInNewTab: !0,
                       children: e(c.a, {
                         className: "framer-1au8r0f framer-lux5qc",
